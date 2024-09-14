@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou Davi Augusto 👋
 
-<!--
-**daviaugDev/daviaugDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Full Stack com foco em Back-end, apaixonado por tecnologia e aprendizado contínuo. Sempre buscando aplicar metodologias ágeis em meus projetos e contribuir para soluções eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu uso
+- Node.js | Express
+- JavaScript
+- TypeScript
+- React.js
+- MySQL | MongoDB
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estudando:
+- Arquitetura de Microsserviços
+- Testes Automatizados
+
+## 📫 Onde me encontrar:
+- LinkedIn: [Davi Augusto](https://linkedin.com/in/davi-augusto-b580b2268/)
